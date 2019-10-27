@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NaviApp</string>
+    <string name="kein_ziel">Kein Ziel</string>
+    <string name="scannen">Scannen</string>
+    <string name="ziel">Ziel</string>
+    <string name="anleitung">Anleitung</string>
+    <string name="url">192.168.43.25</string>
+</resources>
